@@ -1,5 +1,3 @@
-![Project Banner](assets/my_banner.png)
-
 # 🎓 EduBot+: AI-Powered Study Assistant
 
 ### Smart Learning With EduBot+
@@ -7,6 +5,8 @@
 EduBot+ is an AI Study Assistant that helps students understand difficult topics, summarize long study material, generate MCQs, and ask questions directly from PDFs using a full RAG pipeline.
 
 Built for the **HEC x Meta Generative AI Hackathon (48 Hours)**.
+
+![Project Banner](assets/my_banner.png)
 
 ---
 
@@ -114,6 +114,11 @@ I worked on:
 * Flashcards
 * Mobile app version
 * Teacher dashboard
+
+---
+## EduBot+ UI
+
+![EduBot+ UI](assets/edubot_ui.png)
 
 ---
 

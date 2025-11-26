@@ -9,7 +9,7 @@ Built for the **HEC x Meta Generative AI Hackathon (48 Hours)**.
 ---
 
 ## 🔗 Live Demo & Project Links
-| Resource                   | Link                                                                                                                                                                                 |
+| Resource                   | Link                                           |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Live App**               | [https://ayesha245-edubott.hf.space/](https://ayesha245-edubott.hf.space/)                                                                                                           |
 | **Hugging Face Space**     | [https://huggingface.co/spaces/ayesha245/edubott](https://huggingface.co/spaces/ayesha245/edubott)                                                                                   |
@@ -79,8 +79,6 @@ Gradio UI Output
 ---
 
 ## 👥 Team Members
-
-From slide "Team":
 
 * **Amna** — UI/Frontend (Gradio Interface)
 * **Ayesha Zulfiqar** — LLM Integration & Prompt Design

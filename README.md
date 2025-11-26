@@ -1,3 +1,5 @@
+![Project Banner](assets/my_banner.png)
+
 # 🎓 EduBot+: AI-Powered Study Assistant
 
 ### Smart Learning With EduBot+
